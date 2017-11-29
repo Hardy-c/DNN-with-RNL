@@ -1,6 +1,6 @@
 # RNL for Deep Learning
 
-Random neural layers come from queue theory. Here 
+Random neural layers come from queue theory. Here, we propose to add RNL in classical deep neural network. We add RNL as a Keras layer class.
 
 ## List of files
 
