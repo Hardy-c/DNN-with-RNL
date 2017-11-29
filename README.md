@@ -31,7 +31,7 @@ To run one of example, execute :
 	import keras
 	from RNL import RNL
 	
-	model = Sequential()
+	model = keras.Sequential()
 	[...]
 	model.add(RNL(nb_neurons))
 	[...]
