@@ -26,7 +26,7 @@ To run one of example, execute :
 	python _name_of_file.py_
 
 
-### Add one or more RNL in your Keras 
+### Add one or more RNL in your Keras 
 
 	import keras
 	from RNL import RNL
